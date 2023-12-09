@@ -1,0 +1,10 @@
+
+
+
+TOKEN= "6553220170:AAE2t-INH1dTjxrOiL2boqklksY2cpx84ec"
+
+ADMIN_ID = [5122138718]
+
+ADMIN_PUSH_ID = []
+
+
